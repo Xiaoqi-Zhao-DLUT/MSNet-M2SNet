@@ -1,7 +1,7 @@
 # MSNet
 <p align="center">
 
-  <img src="./image/logo.png" alt="Logo" width="210" height="auto">
+  <img src="./image/logo.png" alt="Logo" width="150" height="auto">
 
 
   <h3 align="center">Automatic Polyp Segmentation via Multi-scale Subtraction Network</h3>
