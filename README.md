@@ -8,10 +8,9 @@
 
   <p align="center">
     Xiaoqi Zhao, Lihe Zhang, Huchuan Lu
-<!--     <br />
-    <a href="https://arxiv.org/pdf/2007.08074.pdf"><strong>⭐ arXiv »</strong></a>
-    <a href="./2852.pdf" target="_black">[Slides]</a>
-    <br /> -->
+    <br />
+    <a href="https://arxiv.org/pdf/2108.05082.pdf"><strong>⭐ arXiv »</strong></a>
+    <br /> 
   </p>
 </p>
 
