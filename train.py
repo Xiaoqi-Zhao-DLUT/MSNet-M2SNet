@@ -35,8 +35,8 @@ def train(Dataset, Network, Network1):
     if not os.path.exists(cfg.savepath):
         os.makedirs(cfg.savepath)
     ## network
-    net = Network(cfg)
-    net1 = Network1(cfg)
+    net = Network()
+    net1 = Network1()
     net.train(True)
     net1.eval()
     net.cuda()
