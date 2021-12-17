@@ -18,7 +18,8 @@ The official repo of the MICCAI 2021 paper, Automatic Polyp Segmentation via Mul
 ## Results  
 [Google Drive](https://drive.google.com/file/d/1G3-lqyz4dfX7h8DVMrCpArGfqLq9Xc0q/view?usp=sharing) / [BaiduYunPan(j3i8)](https://pan.baidu.com/s/1Ntqk83v9a4hDla35xFXF-A) 
 ## Trained Model
-You can download the trained MSNet model at [Google Drive](https://drive.google.com/file/d/1A3lt0sE4lGxd-UJfpFVWt9k2mRTX1CZN/view?usp=sharing) / [BaiduYunPan(ps6e)](https://pan.baidu.com/s/1QomEfwmwCGRcRgDvVxmjAA).
+You can download the trained MSNet model at [Google Drive](https://drive.google.com/file/d/1A3lt0sE4lGxd-UJfpFVWt9k2mRTX1CZN/view?usp=sharing) / [BaiduYunPan(ps6e)](https://pan.baidu.com/s/1QomEfwmwCGRcRgDvVxmjAA).  
+You can download Res2Net weights at [Google Drive](https://drive.google.com/file/d/1_1N-cx1UpRQo7Ybsjno1PAg4KE1T9e5J/view) / [BaiduYunPan(w46l)](https://pan.baidu.com/s/1kylcEeW03bFGUEkt7362tw)
 ## BibTex
 ```
 @inproceedings{MSNet,
