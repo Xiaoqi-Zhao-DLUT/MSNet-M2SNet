@@ -17,7 +17,7 @@
   <p align="center">
     Xiaoqi Zhao, Hongpeng Jia, Youwei Pang, Long Lv, Feng Tian, Lihe Zhang, Weibing Sun, Huchuan Lu
     <br />
-    <a href="https://arxiv.org/pdf/2303.10894.pdfhttps://arxiv.org/pdf/2303.10894.pdf"><strong>⭐ arXiv »</strong></a>
+    <a href="https://arxiv.org/pdf/2303.10894.pdf"><strong>⭐ arXiv »</strong></a>
     <br /> 
   </p>
 </p>
