@@ -27,7 +27,7 @@
 </p>
 
 - Official repository of "_**Automatic Polyp Segmentation via Multi-scale Subtraction Network**_" MICCAI-2021. 
-- Official repository of "_**M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation**_" IEEE TMI (under review).
+- Official repository of "_**M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation**_".
 - :boom: We won the second place (2/100) in the _**[MICCAI 2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)](https://aistudio.baidu.com/aistudio/competition/detail/230/0/leaderboard)**_.
 ## Datasets  
 -  **Image Polyp Segmentation**: (training dataset) [Google Drive](https://drive.google.com/file/d/1lODorfB33jbd-im-qrtUgWnZXxB94F55/view) / [BaiduYunPan(342v)](https://pan.baidu.com/s/17F_n2Mx18osW44vIdYdu1g); (testing dataset) [Google Drive](https://drive.google.com/file/d/1o8OfBvYE6K-EpDyvzsmMPndnUMwb540R/view) / [BaiduYunPan(4e10)](https://pan.baidu.com/s/1uu44ryvB42uzZRBxnf8-WA)  
