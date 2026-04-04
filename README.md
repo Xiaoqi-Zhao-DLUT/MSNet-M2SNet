@@ -125,7 +125,7 @@
 @article{M2SNet,
   title={M $\^{}$\{$2$\}$ $ SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation},
   author={Zhao, Xiaoqi and Jia, Hongpeng and Pang, Youwei and Lv, Long and Tian, Feng and Zhang, Lihe and Sun, Weibing and Lu, Huchuan},
-  journal={arXiv preprint arXiv:2303.10894},
-  year={2023}
+  journal={Machine Intelligence Research},
+  year={2026}
 }
 ```
