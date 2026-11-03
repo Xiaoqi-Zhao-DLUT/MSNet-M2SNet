@@ -23,9 +23,15 @@
 </p>
 
 <p align="center">
-    <img src="./image/MICCAI_2022_GOALS_award.jpg"/> <br />
+    <img src="./image/MICCAI_YSPIA_meeting.jpg"/> <br />
 </p>
 
+
+<p align="center">
+    <img src="./image/MICCAI_YSPIA_shortlist.png"/> <br />
+</p>
+
+- 🔥 _**[MICCAI 2026 Young Scientist Publication Impact Award — Finalist!](https://miccai.org/conference-awards/young-scientist-publication-impact-award/)**_ Our MSNet (MICCAI 2021) was the only MICCAI 2021 paper shortlisted for this prestigious award, recognizing its long-term impact on medical image computing.
 - Official repository of "_**M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation**_" MIR-2026.
 - Official repository of "_**Automatic Polyp Segmentation via Multi-scale Subtraction Network**_" MICCAI-2021. 
 - :boom: We won the second place (2/100) in the _**[MICCAI 2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)](https://aistudio.baidu.com/aistudio/competition/detail/230/0/leaderboard)**_.
